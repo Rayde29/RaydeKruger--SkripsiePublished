@@ -1,6 +1,6 @@
-PWD c:\Users\Rayde Kruger\OneDrive\Desktop\University\PublicationSkripsie\Final_Report_LaTeX
+PWD c:\Users\Rayde Kruger\OneDrive\Desktop\Skripsie Journal
 INPUT C:\Users\Rayde Kruger\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Rayde Kruger\OneDrive\Desktop\University\PublicationSkripsie\Final_Report_LaTeX\Skripsie_Report.tex
+INPUT c:\Users\Rayde Kruger\OneDrive\Desktop\Skripsie Journal\Skripsie_Report.tex
 OUTPUT Skripsie_Report.log
 INPUT D:\New folder\tex\latex\base\book.cls
 INPUT D:\New folder\tex\latex\base\book.cls

@@ -41,7 +41,7 @@
             \end{minipage}
         \end{figure}
 
-        Using 300 segments resulted in predictions that are 0.5\% different from the value obtained using five thousand segments. This was an acceptable value and was used to reduce the computational cost of the model.
+        % Using 300 segments resulted in predictions that are 0.5\% different from the value obtained using five thousand segments. This was an acceptable value and was used to reduce the computational cost of the model.
 
         % Using these results, the number of segments can be found which minimizes the computational cost, while having sufficient accuracy. Figure~\ref{fig: segments_vs_prediction} shows the predicted torque and thrust for the number of segments the rotor is split into. It can be seen that both graphs plateau and that after a certain amount of segments, the increase in accuracy is not beneficial for the computational power. The elbow of both of the predictions is around three hundred segments, which results in predictions that are 0.5\% different from the value obtained using five thousand segments. It was decided that it was sufficient accuracy for the computational cost and thus three hundred segments were used for the model.
         % \begin{figure}[h]
@@ -70,7 +70,8 @@
             &C_T= \frac{T}{\pi R^2 \rho (\omega_{Rotor} R).^2}
         \end{align}
         \\
-        The above gives the lift profile along each blade of the rotor, but finding the total thrust for different angular velocities is more vital for designing the initial proof of concept. To do this the thrust and torque values were calculated for a range of angular velocities and their values were stored. An exponential function is then fitted onto these equations, as can be seen in Figure~\ref{fig: thrust_vs_angular_velocity} and Figure~\ref{fig: torque_vs_angular_velocity}, resulting in two equations that can be used to predict the amount of thrust and torque produced for a given angular velocity, Eq.~\ref{eq: fitted_thrust} and Eq.~\ref{eq: fitted_torque}, respectively.
+        The thrust and torque values were then calculated for a range of angular velocities and their values were stored. An exponential function is then fitted equations, as can be seen in Figure 2.3 and Figure 2.4, resulting
+        in two equations that can be used to predict the total amount of thrust and torque produced for a given angular velocity, Eq. 2.3 and Eq. 2.4, respectively.
         \begin{align}
             T &= 0.01805 \omega_{Rotor} ^2 \label{eq: fitted_thrust}\\
             Q &= 0.002216 \omega_{Rotor} ^2 \label{eq: fitted_torque}
@@ -93,9 +94,8 @@
             \end{minipage}
         \end{figure}
     \section{Modelling the Propellers}
-        Modeling the propellers for the tip thrust used a similar approach as for the rotor except that the propellers are smaller, and the accuracy is not as crucial for designing the proof of concept. The thrust and torque produced were calculated using one section with the radius being two-thirds of the blade length as this was shown to give an accurate value with one section when compared to multiple sections. \\
-        The propeller's pitch is described by the distance the propeller moves forward per rotation and thus to find the average angle of the pitch it can be found as \[\theta_{prop} = \arctan\left(\frac{\text{Pitch}}{\pi d}\right)\]
-        The incoming airflow of each propeller can be found by multiplying the angular velocity of the rotor by the position along the rotor blade of the propellers. The high velocities of the inflowing air will decrease the angle of attack. This requires the propellers to have high angular velocities to ensure an angle of attack that produces thrust. Choosing a propeller with a high pitch can ensure that the incoming air meets the blade at a more effective angle of attack. 
+        The thrust and torque produced by the propellers were calculated using one section with the radius being two-thirds of the blade length. The propeller’s pitch is described by the distance the propeller moves forward per rotation and thus to find the average angle of the pitch it can be found as\[\theta_{prop} = \arctan\left(\frac{\text{Pitch}}{\pi d}\right)\]
+        The incoming airflow of each propeller can be found by multiplying the angular velocity of the rotor by the position along the rotor blade of the propellers. The high velocities of the inflowing air will decrease the angle of attack. This requires the propellers to have high angular velocities to ensure an angle of attack that produces thrust.
         \\
         As the incoming air velocity is dependent on the angular velocity, this results in a thrust and torque versus the angular velocity of the propellers to have a different shape depending on the angular velocity. This can be seen in  Figure~\ref{fig: prop_thrust_vs_velocity} and Figure~\ref{fig: prop_torque_vs_velocity}. 
 
@@ -147,8 +147,8 @@
         \end{align}
 
     \section{Optimization of Tip Thrust Positions}
-        As previously mentioned the incoming airflow for the tip thrust is equal to the position of the tip thrust multiplied by the rotor's angular velocity. Having the propulsion at the end of the rotor will maximize the torque produced, however, it will have a higher incoming airflow and require higher rotation from the tip-thrust motors to produce thrust.\\ 
-        The optimum point of the tip-thrust motors would be where the thrust required for the torque is minimized, and the thrust produced is maximized. To find the optimum point the rotor angular velocity and tip thrust angular velocity were kept constant at an expected operating value. The thrust produced by the motors as well as the thrust that would be required to produce the torque were calculated for each percentage length along the rotor as seen in Figure~\ref{fig: thrust_req_vs_available}. This took the hub diameter into account, thus at 0\% of the rotor span (i.e. the base of the rotor), the torque does not tend to infinity.
+        Having the propulsion at the end of the rotor will maximize the torque produced, however, it will have a higher incoming airflow and require higher rotation from the tip-thrust motors to produce thrust. The optimum point of the tip-thrust motors would be where the thrust required for the torque is minimized, and the thrust produced is maximized.\\
+        To find the optimum point the rotor angular velocity and tip thrust angular were kept constant at an expected operating value. The thrust produced by the motors as well as the thrust that would be required to produce the torque were calculated for each percentage length along the rotor as seen in Figure~\ref{fig: thrust_req_vs_available}. This took the hub diameter into account, thus at 0\% of the rotor span (i.e. the base of the rotor), the torque does not tend to infinity.
 
         \begin{figure}[h]
             \centering
