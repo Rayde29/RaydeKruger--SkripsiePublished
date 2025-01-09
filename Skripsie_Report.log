@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.10.22)  8 JAN 2025 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.10.22)  9 JAN 2025 09:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,7 +964,7 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 
 
 ]
-<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=195, 597.50829pt x 845.0471pt>
+<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=187, 597.50829pt x 845.0471pt>
 File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf  used on input line 134.
@@ -973,7 +973,7 @@ File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf  used on input line 134.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=198, page=1, 597.50829pt x 845.0471pt>
+<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=190, page=1, 597.50829pt x 845.0471pt>
 File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf, page 1>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page1 used on input line 134.
@@ -998,7 +998,7 @@ Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page1 use
 
 
  <./Appendix Documents/2024_Skripsie_AI_Use.pdf>]
-<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=215, page=2, 597.50829pt x 845.0471pt>
+<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=207, page=2, 597.50829pt x 845.0471pt>
 File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf, page 2>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page2 used on input line 134.
@@ -1012,7 +1012,7 @@ File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page2 used on input line 134.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [4 <./Appendix Documents/2024_Skripsie_AI_Use.pdf>]
-<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=220, page=3, 597.50829pt x 845.0471pt>
+<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=212, page=3, 597.50829pt x 845.0471pt>
 File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf, page 3>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page3 used on input line 134.
@@ -1026,7 +1026,7 @@ File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page3 used on input line 134.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [5 <./Appendix Documents/2024_Skripsie_AI_Use.pdf>]
-<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=225, page=4, 597.50829pt x 845.0471pt>
+<Appendix Documents/2024_Skripsie_AI_Use.pdf, id=217, page=4, 597.50829pt x 845.0471pt>
 File: Appendix Documents/2024_Skripsie_AI_Use.pdf Graphic file (type pdf)
 <use Appendix Documents/2024_Skripsie_AI_Use.pdf, page 4>
 Package pdftex.def Info: Appendix Documents/2024_Skripsie_AI_Use.pdf , page4 used on input line 134.
@@ -1107,12 +1107,12 @@ Chapter 2.
 
 
 ]
-<figs/Model/Rotor/Thrust_Vs_Radius.png, id=420, 371.4678pt x 299.6796pt>
+<figs/Model/Rotor/Thrust_Vs_Radius.png, id=408, 371.4678pt x 299.6796pt>
 File: figs/Model/Rotor/Thrust_Vs_Radius.png Graphic file (type png)
 <use figs/Model/Rotor/Thrust_Vs_Radius.png>
 Package pdftex.def Info: figs/Model/Rotor/Thrust_Vs_Radius.png  used on input line 32.
 (pdftex.def)             Requested size: 179.26071pt x 144.62192pt.
-<figs/Model/Rotor/Torque_Vs_Radius.png, id=421, 376.7676pt x 299.6796pt>
+<figs/Model/Rotor/Torque_Vs_Radius.png, id=409, 376.7676pt x 299.6796pt>
 File: figs/Model/Rotor/Torque_Vs_Radius.png Graphic file (type png)
 <use figs/Model/Rotor/Torque_Vs_Radius.png>
 Package pdftex.def Info: figs/Model/Rotor/Torque_Vs_Radius.png  used on input line 38.
@@ -1128,38 +1128,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--67
  []
 
 [3 <./figs/Model/Rotor/Thrust_Vs_Radius.png (PNG copy)> <./figs/Model/Rotor/Torque_Vs_Radius.png (PNG copy)>]
-<figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png, id=433, 369.5406pt x 299.6796pt>
+<figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png, id=421, 369.5406pt x 299.6796pt>
 File: figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png Graphic file (type png)
 <use figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png>
 Package pdftex.def Info: figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png  used on input line 85.
 (pdftex.def)             Requested size: 143.4091pt x 116.2984pt.
-<figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png, id=434, 364.2408pt x 299.6796pt>
+<figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png, id=422, 364.2408pt x 299.6796pt>
 File: figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png Graphic file (type png)
 <use figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png>
 Package pdftex.def Info: figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png  used on input line 91.
 (pdftex.def)             Requested size: 143.4091pt x 117.99031pt.
  [4 <./figs/Model/Rotor/Thrust_Vs_Rotor_Angular_Velocity.png (PNG copy)> <./figs/Model/Rotor/Torque_Vs_Rotor_Angular_Velocity.png (PNG copy)>]
-<figs/Model/Props/Prop_thrust_vs_speed.png, id=444, 471.26062pt x 386.19281pt>
+<figs/Model/Props/Prop_thrust_vs_speed.png, id=432, 471.26062pt x 386.19281pt>
 File: figs/Model/Props/Prop_thrust_vs_speed.png Graphic file (type png)
 <use figs/Model/Props/Prop_thrust_vs_speed.png>
 Package pdftex.def Info: figs/Model/Props/Prop_thrust_vs_speed.png  used on input line 106.
 (pdftex.def)             Requested size: 179.26071pt x 146.9021pt.
-<figs/Model/Props/Prop_torque_vs_speed.png, id=445, 487.8225pt x 386.94562pt>
+<figs/Model/Props/Prop_torque_vs_speed.png, id=433, 487.8225pt x 386.94562pt>
 File: figs/Model/Props/Prop_torque_vs_speed.png Graphic file (type png)
 <use figs/Model/Props/Prop_torque_vs_speed.png>
 Package pdftex.def Info: figs/Model/Props/Prop_torque_vs_speed.png  used on input line 112.
 (pdftex.def)             Requested size: 179.26071pt x 142.19342pt.
-<figs/Model/Props/P1_Coeffcient.png, id=449, 367.1316pt x 303.534pt>
+<figs/Model/Props/P1_Coeffcient.png, id=437, 367.1316pt x 303.534pt>
 File: figs/Model/Props/P1_Coeffcient.png Graphic file (type png)
 <use figs/Model/Props/P1_Coeffcient.png>
 Package pdftex.def Info: figs/Model/Props/P1_Coeffcient.png  used on input line 123.
 (pdftex.def)             Requested size: 123.49057pt x 102.09787pt.
-<figs/Model/Props/P2_Coeffcient.png, id=450, 362.3136pt x 303.534pt>
+<figs/Model/Props/P2_Coeffcient.png, id=438, 362.3136pt x 303.534pt>
 File: figs/Model/Props/P2_Coeffcient.png Graphic file (type png)
 <use figs/Model/Props/P2_Coeffcient.png>
 Package pdftex.def Info: figs/Model/Props/P2_Coeffcient.png  used on input line 129.
 (pdftex.def)             Requested size: 123.49057pt x 103.45493pt.
-<figs/Model/Props/P3_Coeffcient.png, id=451, 367.6134pt x 303.534pt>
+<figs/Model/Props/P3_Coeffcient.png, id=439, 367.6134pt x 303.534pt>
 File: figs/Model/Props/P3_Coeffcient.png Graphic file (type png)
 <use figs/Model/Props/P3_Coeffcient.png>
 Package pdftex.def Info: figs/Model/Props/P3_Coeffcient.png  used on input line 135.
@@ -1170,12 +1170,12 @@ Overfull \hbox (7.16084pt too wide) detected at line 147
  []
 
 [5 <./figs/Model/Props/Prop_thrust_vs_speed.png (PNG copy)> <./figs/Model/Props/Prop_torque_vs_speed.png (PNG copy)> <./figs/Model/Props/P1_Coeffcient.png (PNG copy)> <./figs/Model/Props/P2_Coeffcient.png (PNG copy)> <./figs/Model/Props/P3_Coeffcient.png (PNG copy)>]
-<figs/Model/Rotor/Thrust_avaliable_vs_required.png, id=458, 388.8126pt x 297.7524pt>
+<figs/Model/Rotor/Thrust_avaliable_vs_required.png, id=446, 388.8126pt x 297.7524pt>
 File: figs/Model/Rotor/Thrust_avaliable_vs_required.png Graphic file (type png)
 <use figs/Model/Rotor/Thrust_avaliable_vs_required.png>
 Package pdftex.def Info: figs/Model/Rotor/Thrust_avaliable_vs_required.png  used on input line 157.
 (pdftex.def)             Requested size: 179.26071pt x 137.28125pt.
-<figs/Model/Rotor/Optimisation_curve.png, id=460, 363.759pt x 297.7524pt>
+<figs/Model/Rotor/Optimisation_curve.png, id=448, 363.759pt x 297.7524pt>
 File: figs/Model/Rotor/Optimisation_curve.png Graphic file (type png)
 <use figs/Model/Rotor/Optimisation_curve.png>
 Package pdftex.def Info: figs/Model/Rotor/Optimisation_curve.png  used on input line 163.
@@ -1185,48 +1185,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-[6 <./figs/Model/Rotor/Thrust_avaliable_vs_required.png (PNG copy)> <./figs/Model/Rotor/Optimisation_curve.png (PNG copy)>]
-<figs/Model/Pitch/Pitch_variation.jpg, id=470, 1239.63126pt x 976.64874pt>
+<figs/Model/Pitch/Pitch_variation.jpg, id=452, 1239.63126pt x 976.64874pt>
 File: figs/Model/Pitch/Pitch_variation.jpg Graphic file (type jpg)
 <use figs/Model/Pitch/Pitch_variation.jpg>
 Package pdftex.def Info: figs/Model/Pitch/Pitch_variation.jpg  used on input line 194.
 (pdftex.def)             Requested size: 161.33354pt x 127.1029pt.
-<figs/Model/Pitch/Free_body_diagram_spring.jpg, id=472, 1011.78pt x 1443.3925pt>
+<figs/Model/Pitch/Free_body_diagram_spring.jpg, id=454, 1011.78pt x 1443.3925pt>
 File: figs/Model/Pitch/Free_body_diagram_spring.jpg Graphic file (type jpg)
 <use figs/Model/Pitch/Free_body_diagram_spring.jpg>
 Package pdftex.def Info: figs/Model/Pitch/Free_body_diagram_spring.jpg  used on input line 200.
 (pdftex.def)             Requested size: 89.63036pt x 127.85146pt.
- [7 <./figs/Model/Pitch/Pitch_variation.jpg> <./figs/Model/Pitch/Free_body_diagram_spring.jpg>]
-Overfull \hbox (2.39598pt too wide) detected at line 222
-[]
- []
-
-<figs/Model/Pitch/System_response _for _step_input.png, id=487, 523.9575pt x 221.32687pt>
-File: figs/Model/Pitch/System_response _for _step_input.png Graphic file (type png)
-<use figs/Model/Pitch/System_response _for _step_input.png>
-Package pdftex.def Info: figs/Model/Pitch/System_response _for _step_input.png  used on input line 227.
-(pdftex.def)             Requested size: 258.93146pt x 109.37982pt.
-<figs/Model/Pitch/System_response _for _sinusoidal_input.png, id=492, 490.08093pt x 219.82124pt>
+[6 <./figs/Model/Rotor/Thrust_avaliable_vs_required.png (PNG copy)> <./figs/Model/Rotor/Optimisation_curve.png (PNG copy)>]
+<figs/Model/Pitch/System_response _for _sinusoidal_input.png, id=464, 490.08093pt x 219.82124pt>
 File: figs/Model/Pitch/System_response _for _sinusoidal_input.png Graphic file (type png)
 <use figs/Model/Pitch/System_response _for _sinusoidal_input.png>
 Package pdftex.def Info: figs/Model/Pitch/System_response _for _sinusoidal_input.png  used on input line 247.
 (pdftex.def)             Requested size: 258.93146pt x 116.14244pt.
-<figs/Model/Pitch/Torque_stiffness_damping_surface.png, id=495, 483.30562pt x 359.84438pt>
+<figs/Model/Pitch/Torque_stiffness_damping_surface.png, id=467, 483.30562pt x 359.84438pt>
 File: figs/Model/Pitch/Torque_stiffness_damping_surface.png Graphic file (type png)
 <use figs/Model/Pitch/Torque_stiffness_damping_surface.png>
-Package pdftex.def Info: figs/Model/Pitch/Torque_stiffness_damping_surface.png  used on input line 254.
+Package pdftex.def Info: figs/Model/Pitch/Torque_stiffness_damping_surface.png  used on input line 255.
 (pdftex.def)             Requested size: 159.3415pt x 118.63919pt.
-[8 <./figs/Model/Pitch/System_response _for _step_input.png (PNG copy)>]) [9 <./figs/Model/Pitch/System_response _for _sinusoidal_input.png (PNG copy)> <./figs/Model/Pitch/Torque_stiffness_damping_surface.png (PNG copy)>]
+ [7 <./figs/Model/Pitch/Pitch_variation.jpg> <./figs/Model/Pitch/Free_body_diagram_spring.jpg>]) [8 <./figs/Model/Pitch/System_response _for _sinusoidal_input.png (PNG copy)> <./figs/Model/Pitch/Torque_stiffness_damping_surface.png (PNG copy)>]
 \openout2 = `chaps-main/chap-Design.aux'.
 
  (chaps-main/chap-Design.tex
 Chapter 3.
-<figs/Design/Rotor/NACA_Profile.png, id=513, 1008.01593pt x 166.37157pt>
+<figs/Design/Rotor/NACA_Profile.png, id=485, 1008.01593pt x 166.37157pt>
 File: figs/Design/Rotor/NACA_Profile.png Graphic file (type png)
 <use figs/Design/Rotor/NACA_Profile.png>
 Package pdftex.def Info: figs/Design/Rotor/NACA_Profile.png  used on input line 8.
 (pdftex.def)             Requested size: 398.35985pt x 65.74777pt.
-<figs/Design/Rotor/Rotor_Sectioned_Light.png, id=516, 1090.0725pt x 496.85625pt>
+<figs/Design/Rotor/Rotor_Sectioned_Light.png, id=488, 1090.0725pt x 496.85625pt>
 File: figs/Design/Rotor/Rotor_Sectioned_Light.png Graphic file (type png)
 <use figs/Design/Rotor/Rotor_Sectioned_Light.png>
 Package pdftex.def Info: figs/Design/Rotor/Rotor_Sectioned_Light.png  used on input line 16.
@@ -1234,46 +1224,46 @@ Package pdftex.def Info: figs/Design/Rotor/Rotor_Sectioned_Light.png  used on in
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10
+[9
 
 
 
 
  <./figs/Design/Rotor/NACA_Profile.png>]
-<figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png, id=525, 582.67688pt x 552.56438pt>
+<figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png, id=498, 582.67688pt x 552.56438pt>
 File: figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png Graphic file (type png)
 <use figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png>
 Package pdftex.def Info: figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png  used on input line 95.
 (pdftex.def)             Requested size: 179.26071pt x 169.99474pt.
- [11 <./figs/Design/Rotor/Rotor_Sectioned_Light.png> <./figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png>]
-<figs/Design/Final Design/Electronic Systems.png, id=534, 878.53218pt x 502.12593pt>
+ [10 <./figs/Design/Rotor/Rotor_Sectioned_Light.png> <./figs/Design/Hub/Hub_Assembly_Concept_2_Labled.png>]
+<figs/Design/Final Design/Electronic Systems.png, id=507, 878.53218pt x 502.12593pt>
 File: figs/Design/Final Design/Electronic Systems.png Graphic file (type png)
 <use figs/Design/Final Design/Electronic Systems.png>
 Package pdftex.def Info: figs/Design/Final Design/Electronic Systems.png  used on input line 133.
 (pdftex.def)             Requested size: 318.68909pt x 182.15198pt.
- [12 <./figs/Design/Final Design/Electronic Systems.png>]
-<figs/Design/Final Design/Annotated_Final_design.png, id=546, 1169.87062pt x 594.72188pt>
+ [11 <./figs/Design/Final Design/Electronic Systems.png>]
+<figs/Design/Final Design/Annotated_Final_design.png, id=519, 1169.87062pt x 594.72188pt>
 File: figs/Design/Final Design/Annotated_Final_design.png Graphic file (type png)
 <use figs/Design/Final Design/Annotated_Final_design.png>
 Package pdftex.def Info: figs/Design/Final Design/Annotated_Final_design.png  used on input line 150.
 (pdftex.def)             Requested size: 318.68909pt x 162.01085pt.
-) [13 <./figs/Design/Final Design/Annotated_Final_design.png>]
+) [12 <./figs/Design/Final Design/Annotated_Final_design.png>]
 \openout2 = `chaps-main/chap-Software.aux'.
 
  (chaps-main/chap-Software.tex
 Chapter 4.
-<figs/Software/Full_Code_Overview.png, id=555, 935.74594pt x 624.83438pt>
+<figs/Software/Full_Code_Overview.png, id=528, 935.74594pt x 624.83438pt>
 File: figs/Software/Full_Code_Overview.png Graphic file (type png)
 <use figs/Software/Full_Code_Overview.png>
 Package pdftex.def Info: figs/Software/Full_Code_Overview.png  used on input line 6.
 (pdftex.def)             Requested size: 398.35985pt x 266.00397pt.
-[14
+[13
 
 
 
 
  <./figs/Software/Full_Code_Overview.png>]
-<figs/Software/Hall_Effect_timing.png, id=564, 948.54375pt x 374.14781pt>
+<figs/Software/Hall_Effect_timing.png, id=537, 948.54375pt x 374.14781pt>
 File: figs/Software/Hall_Effect_timing.png Graphic file (type png)
 <use figs/Software/Hall_Effect_timing.png>
 Package pdftex.def Info: figs/Software/Hall_Effect_timing.png  used on input line 26.
@@ -1283,18 +1273,18 @@ Overfull \hbox (216.61841pt too wide) detected at line 46
 []
  []
 
-[15 <./figs/Software/Hall_Effect_timing.png>]
-<figs/Software/PID_Control.png, id=575, 1145.78062pt x 381.67593pt>
+[14 <./figs/Software/Hall_Effect_timing.png>]
+<figs/Software/PID_Control.png, id=547, 1145.78062pt x 381.67593pt>
 File: figs/Software/PID_Control.png Graphic file (type png)
 <use figs/Software/PID_Control.png>
 Package pdftex.def Info: figs/Software/PID_Control.png  used on input line 63.
 (pdftex.def)             Requested size: 398.35985pt x 132.69751pt.
-) [16 <./figs/Software/PID_Control.png>]
+) [15 <./figs/Software/PID_Control.png>]
 \openout2 = `chaps-main/chap-Experiments.aux'.
 
  (chaps-main/chap-Experiments.tex
 Chapter 5.
-<figs/Experiments/Testing_Setup_Labeled.png, id=587, 830.35219pt x 550.30594pt>
+<figs/Experiments/Testing_Setup_Labeled.png, id=560, 830.35219pt x 550.30594pt>
 File: figs/Experiments/Testing_Setup_Labeled.png Graphic file (type png)
 <use figs/Experiments/Testing_Setup_Labeled.png>
 Package pdftex.def Info: figs/Experiments/Testing_Setup_Labeled.png  used on input line 25.
@@ -1302,22 +1292,22 @@ Package pdftex.def Info: figs/Experiments/Testing_Setup_Labeled.png  used on inp
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17
+[16
 
 
 
 
-] [18 <./figs/Experiments/Testing_Setup_Labeled.png>]) [19]
+] [17 <./figs/Experiments/Testing_Setup_Labeled.png>]) [18]
 \openout2 = `chaps-main/chap-Data_Analysis.aux'.
 
  (chaps-main/chap-Data_Analysis.tex
 Chapter 6.
-<figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png, id=614, 526.8483pt x 376.5267pt>
+<figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png, id=587, 526.8483pt x 376.5267pt>
 File: figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png Graphic file (type png)
 <use figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png>
 Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png  used on input line 27.
 (pdftex.def)             Requested size: 179.26071pt x 128.1093pt.
-<figs/Data_Analysis/Pitch Graph-Speed Test.png, id=616, 526.8483pt x 376.5267pt>
+<figs/Data_Analysis/Pitch Graph-Speed Test.png, id=589, 526.8483pt x 376.5267pt>
 File: figs/Data_Analysis/Pitch Graph-Speed Test.png Graphic file (type png)
 <use figs/Data_Analysis/Pitch Graph-Speed Test.png>
 Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Speed Test.png  used on input line 33.
@@ -1325,7 +1315,7 @@ Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Speed Test.png  used on 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/Data_Analysis/Pitch Graph-Pitch Sweep.png, id=621, 1129.3392pt x 376.5267pt>
+<figs/Data_Analysis/Pitch Graph-Pitch Sweep.png, id=594, 1129.3392pt x 376.5267pt>
 File: figs/Data_Analysis/Pitch Graph-Pitch Sweep.png Graphic file (type png)
 <use figs/Data_Analysis/Pitch Graph-Pitch Sweep.png>
 Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Pitch Sweep.png  used on input line 58.
@@ -1333,13 +1323,13 @@ Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Pitch Sweep.png  used on
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20
+[19
 
 
 
 
 ]
-<figs/Data_Analysis/FFT-TEST 0 60.2.png, id=631, 451.6875pt x 376.5267pt>
+<figs/Data_Analysis/FFT-TEST 0 60.2.png, id=604, 451.6875pt x 376.5267pt>
 File: figs/Data_Analysis/FFT-TEST 0 60.2.png Graphic file (type png)
 <use figs/Data_Analysis/FFT-TEST 0 60.2.png>
 Package pdftex.def Info: figs/Data_Analysis/FFT-TEST 0 60.2.png  used on input line 76.
@@ -1349,7 +1339,7 @@ Overfull \hbox (17.92715pt too wide) in paragraph at lines 76--77
  [][] 
  []
 
-<figs/Data_Analysis/FFT-Test 4.png, id=633, 451.6875pt x 376.5267pt>
+<figs/Data_Analysis/FFT-Test 4.png, id=606, 451.6875pt x 376.5267pt>
 File: figs/Data_Analysis/FFT-Test 4.png Graphic file (type png)
 <use figs/Data_Analysis/FFT-Test 4.png>
 Package pdftex.def Info: figs/Data_Analysis/FFT-Test 4.png  used on input line 82.
@@ -1359,8 +1349,8 @@ Overfull \hbox (17.92715pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
-[21 <./figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png (PNG copy)> <./figs/Data_Analysis/Pitch Graph-Speed Test.png (PNG copy)> <./figs/Data_Analysis/Pitch Graph-Pitch Sweep.png (PNG copy)>]
-<figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png, id=645, 445.4241pt x 376.5267pt>
+[20 <./figs/Data_Analysis/Pitch Graph-Tip Thrust-Experiment-2024-10-07_17-54-35.png (PNG copy)> <./figs/Data_Analysis/Pitch Graph-Speed Test.png (PNG copy)> <./figs/Data_Analysis/Pitch Graph-Pitch Sweep.png (PNG copy)>]
+<figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png, id=617, 445.4241pt x 376.5267pt>
 File: figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png Graphic file (type png)
 <use figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png>
 Package pdftex.def Info: figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png  used on input line 93.
@@ -1370,7 +1360,7 @@ Overfull \hbox (17.92715pt too wide) in paragraph at lines 93--94
  [][] 
  []
 
-<figs/Data_Analysis/Lift Generated-Test 4.png, id=647, 451.2057pt x 376.5267pt>
+<figs/Data_Analysis/Lift Generated-Test 4.png, id=619, 451.2057pt x 376.5267pt>
 File: figs/Data_Analysis/Lift Generated-Test 4.png Graphic file (type png)
 <use figs/Data_Analysis/Lift Generated-Test 4.png>
 Package pdftex.def Info: figs/Data_Analysis/Lift Generated-Test 4.png  used on input line 99.
@@ -1388,8 +1378,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
-[22 <./figs/Data_Analysis/FFT-TEST 0 60.2.png (PNG copy)> <./figs/Data_Analysis/FFT-Test 4.png (PNG copy)>] [23 <./figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png> <./figs/Data_Analysis/Lift Generated-Test 4.png>]
-<figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png, id=674, 677.6517pt x 376.5267pt>
+[21 <./figs/Data_Analysis/FFT-TEST 0 60.2.png (PNG copy)> <./figs/Data_Analysis/FFT-Test 4.png (PNG copy)>] [22 <./figs/Data_Analysis/Unfiltered Loadcell Readings-Test 4.png> <./figs/Data_Analysis/Lift Generated-Test 4.png>]
+<figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png, id=647, 677.6517pt x 376.5267pt>
 File: figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png Graphic file (type png)
 <use figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png>
 Package pdftex.def Info: figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png  used on input line 132.
@@ -1399,29 +1389,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--138
 
  []
 
-<figs/Data_Analysis/Pitch Graph-Forward Flight.png, id=677, 1129.3392pt x 376.5267pt>
+<figs/Data_Analysis/Pitch Graph-Forward Flight.png, id=650, 1129.3392pt x 376.5267pt>
 File: figs/Data_Analysis/Pitch Graph-Forward Flight.png Graphic file (type png)
 <use figs/Data_Analysis/Pitch Graph-Forward Flight.png>
 Package pdftex.def Info: figs/Data_Analysis/Pitch Graph-Forward Flight.png  used on input line 142.
 (pdftex.def)             Requested size: 398.35985pt x 132.81473pt.
-[24 <./figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png (PNG copy)>]
-<figs/Data_Analysis/Lift Generated-Forward Flight.png, id=688, 572.3784pt x 376.5267pt>
+[23 <./figs/Data_Analysis/Lift, Pitch and Speed-Speed Sweep.png (PNG copy)>]
+<figs/Data_Analysis/Lift Generated-Forward Flight.png, id=661, 572.3784pt x 376.5267pt>
 File: figs/Data_Analysis/Lift Generated-Forward Flight.png Graphic file (type png)
 <use figs/Data_Analysis/Lift Generated-Forward Flight.png>
 Package pdftex.def Info: figs/Data_Analysis/Lift Generated-Forward Flight.png  used on input line 152.
 (pdftex.def)             Requested size: 195.1985pt x 128.40231pt.
-<figs/Data_Analysis/Lift Generated-Reverse Flight.png, id=690, 573.8238pt x 366.4089pt>
+<figs/Data_Analysis/Lift Generated-Reverse Flight.png, id=663, 573.8238pt x 366.4089pt>
 File: figs/Data_Analysis/Lift Generated-Reverse Flight.png Graphic file (type png)
 <use figs/Data_Analysis/Lift Generated-Reverse Flight.png>
 Package pdftex.def Info: figs/Data_Analysis/Lift Generated-Reverse Flight.png  used on input line 158.
 (pdftex.def)             Requested size: 195.1985pt x 124.63887pt.
- [25 <./figs/Data_Analysis/Pitch Graph-Forward Flight.png (PNG copy)> <./figs/Data_Analysis/Lift Generated-Forward Flight.png> <./figs/Data_Analysis/Lift Generated-Reverse Flight.png>]
-<figs/Data_Analysis/Lift Generated-PWM 120.png, id=702, 677.6517pt x 376.5267pt>
+ [24 <./figs/Data_Analysis/Pitch Graph-Forward Flight.png (PNG copy)> <./figs/Data_Analysis/Lift Generated-Forward Flight.png> <./figs/Data_Analysis/Lift Generated-Reverse Flight.png>]
+<figs/Data_Analysis/Lift Generated-PWM 120.png, id=675, 677.6517pt x 376.5267pt>
 File: figs/Data_Analysis/Lift Generated-PWM 120.png Graphic file (type png)
 <use figs/Data_Analysis/Lift Generated-PWM 120.png>
 Package pdftex.def Info: figs/Data_Analysis/Lift Generated-PWM 120.png  used on input line 167.
 (pdftex.def)             Requested size: 398.35985pt x 221.35022pt.
-) [26 <./figs/Data_Analysis/Lift Generated-PWM 120.png (PNG copy)>]
+) [25 <./figs/Data_Analysis/Lift Generated-PWM 120.png (PNG copy)>]
 \openout2 = `chaps-main/chap-Report_Conclusion.aux'.
 
  (chaps-main/chap-Report_Conclusion.tex
@@ -1441,7 +1431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-[27
+[26
 
 
 
@@ -1451,7 +1441,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-) [28] (Skripsie_Report.bbl
+) [27] (Skripsie_Report.bbl
 Chapter 8.
 (D:\New folder\tex/latex/stellenbosch-2\stb-bib.eng)
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 27.
@@ -1467,7 +1457,7 @@ Underfull \hbox (badness 2512) in paragraph at lines 31--37
 \T1/cmr/m/n/10.95 Available at: []$\T1/cmtt/m/n/10.95 https : / / www-[]accessengineeringlibrary-[]com . ez . sun . ac . za /
  []
 
-) [29
+) [28
 
 
 
@@ -1476,42 +1466,42 @@ Underfull \hbox (badness 2512) in paragraph at lines 31--37
 
  (chaps-append/chap-Appendix_Circuit.tex
 Appendix A.
-[30
+[29
 
 
 ]
-<figs/Design/Final Design/Electronics/Circuit_Design.png, id=736, 1355.8153pt x 769.37437pt>
+<figs/Design/Final Design/Electronics/Circuit_Design.png, id=709, 1355.8153pt x 769.37437pt>
 File: figs/Design/Final Design/Electronics/Circuit_Design.png Graphic file (type png)
 <use figs/Design/Final Design/Electronics/Circuit_Design.png>
 Package pdftex.def Info: figs/Design/Final Design/Electronics/Circuit_Design.png  used on input line 35.
 (pdftex.def)             Requested size: 580.07722pt x 329.18097pt.
- [31
+ [30
 
  <./figs/Design/Final Design/Electronics/Circuit_Design.png>])
 \openout2 = `chaps-append/chap-Appendix_Drawings.aux'.
 
  (chaps-append/chap-Appendix_Drawings.tex
 Appendix B.
-<figs/Design/Rotor/Calcs_3D_Hub_Quality.png, id=744, 623.32875pt x 585.68813pt>
+<figs/Design/Rotor/Calcs_3D_Hub_Quality.png, id=717, 623.32875pt x 585.68813pt>
 File: figs/Design/Rotor/Calcs_3D_Hub_Quality.png Graphic file (type png)
 <use figs/Design/Rotor/Calcs_3D_Hub_Quality.png>
 Package pdftex.def Info: figs/Design/Rotor/Calcs_3D_Hub_Quality.png  used on input line 5.
 (pdftex.def)             Requested size: 398.35985pt x 374.31184pt.
-<figs/Design/Rotor/Calcs_Circlip.png, id=745, 514.17094pt x 552.56438pt>
+<figs/Design/Rotor/Calcs_Circlip.png, id=718, 514.17094pt x 552.56438pt>
 File: figs/Design/Rotor/Calcs_Circlip.png Graphic file (type png)
 <use figs/Design/Rotor/Calcs_Circlip.png>
 Package pdftex.def Info: figs/Design/Rotor/Calcs_Circlip.png  used on input line 11.
 (pdftex.def)             Requested size: 398.35985pt x 428.11491pt.
-[32
+[31
 
 
 
 
 
- <./figs/Design/Rotor/Calcs_3D_Hub_Quality.png>] [33 <./figs/Design/Rotor/Calcs_Circlip.png>]
+ <./figs/Design/Rotor/Calcs_3D_Hub_Quality.png>] [32 <./figs/Design/Rotor/Calcs_Circlip.png>]
 
 pdfTeX warning: pdflatex (file ./Appendix Documents/Exploded VIew and Assmebly.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Appendix Documents/Exploded VIew and Assmebly.pdf, id=759, 817.0525pt x 569.12625pt>
+<Appendix Documents/Exploded VIew and Assmebly.pdf, id=731, 817.0525pt x 569.12625pt>
 File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf  used on input line 20.
@@ -1529,7 +1519,7 @@ pdfTeX warning: pdflatex (file ./Appendix Documents/Exploded VIew and Assmebly.p
 
 
 pdfTeX warning: pdflatex (file ./Appendix Documents/Exploded VIew and Assmebly.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Appendix Documents/Exploded VIew and Assmebly.pdf, id=762, page=1, 817.0525pt x 569.12625pt>
+<Appendix Documents/Exploded VIew and Assmebly.pdf, id=734, page=1, 817.0525pt x 569.12625pt>
 File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 1>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page1 used on input line 20.
@@ -1550,12 +1540,12 @@ File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 1>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page1 used on input line 20.
 (pdftex.def)             Requested size: 817.05052pt x 569.12486pt.
-[34
+[33
 
  <./Appendix Documents/Exploded VIew and Assmebly.pdf>]
 
 pdfTeX warning: pdflatex (file ./Appendix Documents/Exploded VIew and Assmebly.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Appendix Documents/Exploded VIew and Assmebly.pdf, id=795, page=2, 817.0525pt x 569.12625pt>
+<Appendix Documents/Exploded VIew and Assmebly.pdf, id=768, page=2, 817.0525pt x 569.12625pt>
 File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 2>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page2 used on input line 20.
@@ -1568,10 +1558,10 @@ File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 2>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page2 used on input line 20.
 (pdftex.def)             Requested size: 817.05052pt x 569.12486pt.
-[35 <./Appendix Documents/Exploded VIew and Assmebly.pdf>]
+[34 <./Appendix Documents/Exploded VIew and Assmebly.pdf>]
 
 pdfTeX warning: pdflatex (file ./Appendix Documents/Exploded VIew and Assmebly.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Appendix Documents/Exploded VIew and Assmebly.pdf, id=800, page=3, 817.0525pt x 569.12625pt>
+<Appendix Documents/Exploded VIew and Assmebly.pdf, id=773, page=3, 817.0525pt x 569.12625pt>
 File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 3>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page3 used on input line 20.
@@ -1584,26 +1574,26 @@ File: Appendix Documents/Exploded VIew and Assmebly.pdf Graphic file (type pdf)
 <use Appendix Documents/Exploded VIew and Assmebly.pdf, page 3>
 Package pdftex.def Info: Appendix Documents/Exploded VIew and Assmebly.pdf , page3 used on input line 20.
 (pdftex.def)             Requested size: 817.05052pt x 569.12486pt.
-[36 <./Appendix Documents/Exploded VIew and Assmebly.pdf>]) (Skripsie_Report.aux (chaps-front/chap-plagiarism.aux) (chaps-front/chap-summary.aux) (chaps-front/chap-acknowledge.aux) (chaps-front/chap-symbols.aux) (chaps-main/chap-intro.aux) (chaps-main/chap-Matlab_Model.aux) (chaps-main/chap-Design.aux) (chaps-main/chap-Software.aux) (chaps-main/chap-Experiments.aux) (chaps-main/chap-Data_Analysis.aux) (chaps-main/chap-Report_Conclusion.aux) (chaps-append/chap-Appendix_Circuit.aux) (chaps-append/chap-Appendix_Drawings.aux))
+[35 <./Appendix Documents/Exploded VIew and Assmebly.pdf>]) (Skripsie_Report.aux (chaps-front/chap-plagiarism.aux) (chaps-front/chap-summary.aux) (chaps-front/chap-acknowledge.aux) (chaps-front/chap-symbols.aux) (chaps-main/chap-intro.aux) (chaps-main/chap-Matlab_Model.aux) (chaps-main/chap-Design.aux) (chaps-main/chap-Software.aux) (chaps-main/chap-Experiments.aux) (chaps-main/chap-Data_Analysis.aux) (chaps-main/chap-Report_Conclusion.aux) (chaps-append/chap-Appendix_Circuit.aux) (chaps-append/chap-Appendix_Drawings.aux))
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Skripsie_Report.out' has not changed.
-(rerunfilecheck)             Checksum: 092418E3017595F49D417A6BE64E22B4;2601.
+(rerunfilecheck)             Checksum: 574BE812CC1C5B87A2BFBAC94D3B7FF0;2470.
  ) 
 Here is how much of TeX's memory you used:
- 34988 strings out of 474486
- 726085 string characters out of 5758236
+ 34968 strings out of 474486
+ 725449 string characters out of 5758236
  1940528 words of memory out of 5000000
- 56433 multiletter control sequences out of 15000+600000
+ 56421 multiletter control sequences out of 15000+600000
  588044 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,19n,117p,1668b,1109s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/New folder/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/New folder/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx1095.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx1200.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx1440.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx1728.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx2074.pfb><D:/New folder/fonts/type1/public/cm-super/sfbx2488.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm0600.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm0800.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm1000.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm1095.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm1200.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm1440.pfb><D:/New folder/fonts/type1/public/cm-super/sfrm1728.pfb><D:/New folder/fonts/type1/public/cm-super/sfsl1200.pfb><D:/New folder/fonts/type1/public/cm-super/sfti1095.pfb><D:/New folder/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Skripsie_Report.pdf (52 pages, 6211826 bytes).
+Output written on Skripsie_Report.pdf (51 pages, 6187761 bytes).
 PDF statistics:
- 952 PDF objects out of 1000 (max. 8388607)
- 157 named destinations out of 1000 (max. 500000)
- 769 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 923 PDF objects out of 1000 (max. 8388607)
+ 149 named destinations out of 1000 (max. 500000)
+ 742 words of extra memory for PDF output out of 10000 (max. 10000000)
 

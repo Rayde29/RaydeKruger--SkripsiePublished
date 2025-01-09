@@ -168,17 +168,17 @@
         The thrust required and thrust available were standardized, so they could be compared. The two standardized sets of values were subtracted from each other and the turning point of the resulting graph was used as the optimized position along the rotor. As can be seen in Figure~\ref{fig: optimization_curve}, this is around 32.5\% along the rotor blade. While this does vary slightly depending on the motor's angular velocity, at the expected velocity a position of 32.5\%  of the rotor is optimum and is close to the mean for the position that incorporates the range of motor speed.\\
   
         As the thrusts will no longer be placed on the tip of the rotors, it was believed that they should be referred to as TORB motors (Thrust On Rotor Blade) from this point forward. This was chosen to give a more accurate name to this method of creating rotational actuation.
-    \section{Combined Model}
-        Using the models created above, the system can take the amount of thrust required and will output the torque produced and required thrust. 
-        \begin{align}
-            \omega_{rotor} =& \sqrt{55.4T_{rotor}}\\
-            Q_{Rotor} =& 0.1228T_{rotor}
-            % T_{prop} = P_1\omega_{prop}^2 + P_2\omega_{prop} +P_3
-            % \omega_{prop} = \frac{-\left[(-7.806 \times 10^{-12})\omega_{rotor}^2 + (7.144 \times 10^{-9})\omega_{rotor} - 1.301 \times 10^{-5}\right] + \sqrt{\left[(-7.806 \times 10^{-12})\omega_{rotor}^2 + (7.144 \times 10^{-9})\omega_{rotor} - 1.301 \times 10^{-5}\right]^2 - 4 \left[(-2.500 \times 10^{-16})\omega_{rotor}^3 + (1.517 \times 10^{-12})\omega_{rotor}^2 + (-1.314 \times 10^{-9})\omega_{rotor} + 1.037 \times 10^{-6}\right] \left[(-4.593 \times 10^{-5})\omega_{rotor}^2 + (-1.006 \times 10^{-3})\omega_{rotor} + 0.2227 - T_{prop}\right]}}{2 \left[(-2.500 \times 10^{-16})\omega_{rotor}^3 + (1.517 \times 10^{-12})\omega_{rotor}^2 + (-1.314 \times 10^{-9})\omega_{rotor} + 1.037 \times 10^{-6}\right]}
-                        % \quad \Rightarrow \omega_{prop} =& -\left((-1.775\times 10^{-15})\left(\sqrt{161.5T_{Rotor}}\right) ^3 + (3.676\times 10^{-12}) \right. \notag\\
-            % &\left.\times\sqrt{161.5T_{Rotor}} ^2  + (-1.974\times 10^{-9})\sqrt{161.5T_{Rotor}}\notag  \right) \pm  \\ 
-            % & \left[(-1.775\times 10^{-15})\left(\sqrt{161.5T_{Rotor}}\right) ^3 + (3.676\times 10^{-12})\right] \notag
-        \end{align}
+    % \section{Combined Model}
+    %     Using the models created above, the system can take the amount of thrust required and will output the torque produced and required thrust. 
+    %     \begin{align}
+    %         \omega_{rotor} =& \sqrt{55.4T_{rotor}}\\
+    %         Q_{Rotor} =& 0.1228T_{rotor}
+    %         % T_{prop} = P_1\omega_{prop}^2 + P_2\omega_{prop} +P_3
+    %         % \omega_{prop} = \frac{-\left[(-7.806 \times 10^{-12})\omega_{rotor}^2 + (7.144 \times 10^{-9})\omega_{rotor} - 1.301 \times 10^{-5}\right] + \sqrt{\left[(-7.806 \times 10^{-12})\omega_{rotor}^2 + (7.144 \times 10^{-9})\omega_{rotor} - 1.301 \times 10^{-5}\right]^2 - 4 \left[(-2.500 \times 10^{-16})\omega_{rotor}^3 + (1.517 \times 10^{-12})\omega_{rotor}^2 + (-1.314 \times 10^{-9})\omega_{rotor} + 1.037 \times 10^{-6}\right] \left[(-4.593 \times 10^{-5})\omega_{rotor}^2 + (-1.006 \times 10^{-3})\omega_{rotor} + 0.2227 - T_{prop}\right]}}{2 \left[(-2.500 \times 10^{-16})\omega_{rotor}^3 + (1.517 \times 10^{-12})\omega_{rotor}^2 + (-1.314 \times 10^{-9})\omega_{rotor} + 1.037 \times 10^{-6}\right]}
+    %                     % \quad \Rightarrow \omega_{prop} =& -\left((-1.775\times 10^{-15})\left(\sqrt{161.5T_{Rotor}}\right) ^3 + (3.676\times 10^{-12}) \right. \notag\\
+    %         % &\left.\times\sqrt{161.5T_{Rotor}} ^2  + (-1.974\times 10^{-9})\sqrt{161.5T_{Rotor}}\notag  \right) \pm  \\ 
+    %         % & \left[(-1.775\times 10^{-15})\left(\sqrt{161.5T_{Rotor}}\right) ^3 + (3.676\times 10^{-12})\right] \notag
+    %     \end{align}
 
 
         % \todo[color=blue!10]{Do the whole formula}
@@ -202,41 +202,41 @@
                     \label{fig: free_body_diagram}
                 \end{minipage}
             \end{figure} 
-            \subsection{Step Input}
-            From Figure~\ref{fig: free_body_diagram}, a differential equation can be derived for a step input to give Eq.~\ref*{eq: step_input_reponse}.
-            % \todo[color=green!20]{Put the proper zeta in}
-            \begin{align}
-                \ddot{\theta} +2\omega_{n}\zeta\dot{\theta} + \omega _{n}^2 \theta &= \frac{M_{required}}{I_{airfoil}} \label{eq: step_input_reponse}
-            \end{align}
-            As no artificial damping will be added to the system, it was assumed to be an under-damped system and an arbitrary dampening coefficient has been used, and it is assumed it is starting where \(\theta\) and \(\dot{\theta}\) is zero. Using this information, the solution to Eq.~\ref{eq: step_input_reponse} given by Eq.~\ref{eq: step_input_reponse_solution}.
-            \begin{align}
-                \theta(t) &= Ae^{-\zeta \omega_n t}\sin(\omega_d t +\phi) + \frac{M_{required}}{k} \label{eq: step_input_reponse_solution}
-            \end{align}
-            \begin{minipage}{0.45\textwidth}
-                \vspace*{-4mm}
-                \begin{align*}
-                    \text{where} \quad
-                    &A = \frac{-\frac{M_{required}}{k}}{\sin(\phi)} \\
-                    &M_{required} = \theta_{required}k\\
-                    &\theta_{required} \text{ is the desired pitch}
-                \end{align*}
-                \end{minipage}
-                \\
-                \begin{figure}[h]
-                    \centering
-                    \includegraphics*[width = 0.65\textwidth]{figs/Model/Pitch/System_response _for _step_input.png}
-                    \caption{System response to a step input}
-                    \label{fig: step_response}
-                \end{figure}
-                Figure~\ref{fig: step_response} shows the system response to an applied moment that results in a steady state of 0.0873 rads (5\(^\circ\)). It can be seen that the response from the system has some oscillation, however its settling time is reasonably fast and would suffice for the proof of concept.
-                \vspace{-5mm}
+            % \subsection{Step Input}
+            % From Figure~\ref{fig: free_body_diagram}, a differential equation can be derived for a step input to give Eq.~\ref*{eq: step_input_reponse}.
+            % % \todo[color=green!20]{Put the proper zeta in}
+            % \begin{align}
+            %     \ddot{\theta} +2\omega_{n}\zeta\dot{\theta} + \omega _{n}^2 \theta &= \frac{M_{required}}{I_{airfoil}} \label{eq: step_input_reponse}
+            % \end{align}
+            % As no artificial damping will be added to the system, it was assumed to be an under-damped system and an arbitrary dampening coefficient has been used, and it is assumed it is starting where \(\theta\) and \(\dot{\theta}\) is zero. Using this information, the solution to Eq.~\ref{eq: step_input_reponse} given by Eq.~\ref{eq: step_input_reponse_solution}.
+            % \begin{align}
+            %     \theta(t) &= Ae^{-\zeta \omega_n t}\sin(\omega_d t +\phi) + \frac{M_{required}}{k} \label{eq: step_input_reponse_solution}
+            % \end{align}
+            % \begin{minipage}{0.45\textwidth}
+            %     \vspace*{-4mm}
+            %     \begin{align*}
+            %         \text{where} \quad
+            %         &A = \frac{-\frac{M_{required}}{k}}{\sin(\phi)} \\
+            %         &M_{required} = \theta_{required}k\\
+            %         &\theta_{required} \text{ is the desired pitch}
+            %     \end{align*}
+            %     \end{minipage}
+            %     \\
+            %     \begin{figure}[h]
+            %         \centering
+            %         \includegraphics*[width = 0.65\textwidth]{figs/Model/Pitch/System_response _for _step_input.png}
+            %         \caption{System response to a step input}
+            %         \label{fig: step_response}
+            %     \end{figure}
+            %     Figure~\ref{fig: step_response} shows the system response to an applied moment that results in a steady state of 0.0873 rads (5\(^\circ\)). It can be seen that the response from the system has some oscillation, however its settling time is reasonably fast and would suffice for the proof of concept.
+            %     \vspace{-5mm}
             \subsection{Sinusoidal Input}
                 For a sinusoidal input the differential equation is given by Eq.~\ref*{eq: cos_input_reponse}
                 \begin{align}
                     \ddot{\theta} +2\omega_{n}\zeta\dot{\theta} + \omega _{n}^2 \theta &= \frac{M_{required}}{I_{airfoil}}\cos(\omega_{rotor} t) \label{eq: cos_input_reponse}
                 \end{align}
-
-                The same dampening coefficient which was used for the step input was used for the sinusoidal input. This differential equation can be solved by Eq.~\ref{eq: cos_input_reponse_solution}
+                % The same dampening coefficient which was used for the step input was used for the sinusoidal input. 
+                As no artificial damping will be added to the system, it was assumed to be an under-damped system and an arbitrary dampening coefficient has been used, and it is assumed it is starting where \(\theta\) and \(\dot{\theta}\) is zero. This differential equation can be solved by Eq.~\ref{eq: cos_input_reponse_solution}
                 \begin{align}
                     \omega(t) &= Ae^{-\zeta \omega_{n} t}\sin(\omega_d t + \phi) + X\cos (\omega_{rotor} - \beta) \label{eq: cos_input_reponse_solution}
                 \end{align}
@@ -248,7 +248,8 @@
                     \caption{System response to a sinusoidal input}
                     \label{fig: cos_response}
                 \end{figure}
-                To find the optimum spring stiffness and damping coefficient which will produces the smallest required torque, these two parameters were changed, and the torque required was plotted vs these parameters resulting in the graph as shown in Figure~\ref{fig: 3d_plot}. With reference to the damping coefficient, it shows that the lower the coefficient, the lower the torque, however, this will affect how much the system's natural frequency influences the output. For the spring constant, it should be noted that there is a value for which the torque is minimized. After further inspection, it can be seen that choosing a spring constant which results in the natural frequency being close to \(\omega_{rotor}\) will require the lowest amount of torque to control.
+                The optimum spring stifness and damping coefficient that minimize the required torque were found be varying these two paramters and plotting it versus the resulting torque, shown in Figure~\ref{fig: 3d_plot}. Most notible was to minimize the torque required to change the pitch, the spring stiffness should be chosen such that the natural frequency of the system is clsoe to the rotor's angular velocity.
+                % To find the optimum spring stiffness and damping coefficient which will produces the smallest required torque, these two parameters were changed, and the torque required was plotted vs these parameters resulting in the graph as shown in Figure~\ref{fig: 3d_plot}. With reference to the damping coefficient, it shows that the lower the coefficient, the lower the torque, however, this will affect how much the system's natural frequency influences the output. For the spring constant, it should be noted that there is a value for which the torque is minimized. After further inspection, it can be seen that choosing a spring constant which results in the natural frequency being close to \(\omega_{rotor}\) will require the lowest amount of torque to control.
                 \begin{figure}[H]
                     \centering
                     \includegraphics*[width = 0.4\textwidth]{figs/Model/Pitch/Torque_stiffness_damping_surface.png}
@@ -260,4 +261,3 @@
         % &\left. + (-1.974\times 10^{-9})\omega_{Rotor} + (1.050\times 10^{-6})\right)\omega_{prop}^2 + \left((-3.093\times 10^{-12})\right. \notag\\
         % &\left. \times \omega_{Rotor}^2 +(-7.582\times 10^{-10})\omega_{Rotor}^2  (-1.391\times 10^{-5})\omega_{Rotor}  -0.0005 \right)\omega_{prop} \notag\\
         % & \left( (-7.745\times 10^{-5})\omega_{Rotor}^2 + (-1.935\times 10^{-3})\omega_{Rotor} +0.2796\right) \label{eq: prop_thrust}
-    
